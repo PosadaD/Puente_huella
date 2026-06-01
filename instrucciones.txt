@@ -17,5 +17,3 @@
 ❌ PROBLEMAS?
    - Ejecuta "BridgeHuellas.exe" (con consola) para ver errores
    - Verifica que el lector USB esté conectado
-
-📞 SOPORTE: llama al [tu número]
