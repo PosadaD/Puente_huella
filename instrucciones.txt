@@ -1,0 +1,21 @@
+🔐 PUENTE DE HUELLAS - GUÍA RÁPIDA
+
+📥 INSTALACIÓN (solo 2 pasos):
+   1. Conecta el lector de huellas USB
+   2. Haz doble clic en "BridgeHuellas_Background.exe"
+
+✅ ¡LISTO! El programa ya está funcionando.
+
+🔄 PARA USARLO SIEMPRE:
+   - El programa se inicia automáticamente al prender la PC
+   - O haz doble clic en "iniciar.bat"
+
+🔧 DÓNDE VERIFICAR QUE FUNCIONA:
+   Abre tu navegador y ve a: http://localhost:8080/health
+   Deberías ver: {"status":"ok"}
+
+❌ PROBLEMAS?
+   - Ejecuta "BridgeHuellas.exe" (con consola) para ver errores
+   - Verifica que el lector USB esté conectado
+
+📞 SOPORTE: llama al [tu número]
